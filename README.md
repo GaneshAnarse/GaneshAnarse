@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Anarse</h1>
 <h3 align="center">Software engineer from Pune, India</h3>
 
-- 🔭 I’m currently working on **Zimbra Collaboration Suite**
+- 🔭 I’m currently working at **Synacor** on **Zimbra**
 
 - 📫 How to reach me **ganeshanarse99@gmail.com**
 
