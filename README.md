@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **Synacor** on **Zimbra**
 
-- 📫 How to reach me **ganeshanarse99@gmail.com**
+- 📫 Reach out to me at **ganeshanarse99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
